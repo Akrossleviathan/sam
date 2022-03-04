@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 group-title="Noticias" ,24 HORAS
+http://iptv1.sytes.net:8000/play/a0hx/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,CNN Chile
+http://iptv1.sytes.net:8000/play/a0is/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,CNN Espanol
+http://iptv1.sytes.net:8000/play/a0jx/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1 group-title="Infantil" ,CHV
+http://iptv1.sytes.net:8000/play/a0hk/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Canal13
+http://iptv1.sytes.net:8000/play/a0hl/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,La Red
+http://iptv1.sytes.net:8000/play/a0jy/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Mega
+http://iptv1.sytes.net:8000/play/a0hj/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,ViaX
+http://iptv1.sytes.net:8000/play/a0m1/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1 group-title="Nacionales" ,Cartoon Network
+http://iptv1.sytes.net:8000/play/a0iw/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Discovery Kids
+http://iptv1.sytes.net:8000/play/a0hf/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Disney Channel
+http://iptv1.sytes.net:8000/play/a0i0/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Disney Jr
+http://iptv1.sytes.net:8000/play/a0hw/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Disney XD
+http://iptv1.sytes.net:8000/play/a0ij/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,NTV
+http://iptv1.sytes.net:8000/play/a0hz/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,NatGeo Kids
+http://iptv1.sytes.net:8000/play/a0iv/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Nick Jr
+http://iptv1.sytes.net:8000/play/a0jh/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Nickelodeon
+http://iptv1.sytes.net:8000/play/a0ii/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1 group-title="Peliculas y Series" ,AE Mundo
+http://iptv1.sytes.net:8000/play/a0lo/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,AXN
+http://iptv1.sytes.net:8000/play/a0je/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Cinecanal
+http://iptv1.sytes.net:8000/play/a0im/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Cinemax
+http://iptv1.sytes.net:8000/play/a0jc/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,FX
+http://iptv1.sytes.net:8000/play/a0jg/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,FXM
+http://iptv1.sytes.net:8000/play/a0k3/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,HBO
+http://iptv1.sytes.net:8000/play/a0jb/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,HBO 2
+http://iptv1.sytes.net:8000/play/a0n6/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,HBO Plus
+http://iptv1.sytes.net:8000/play/a0ka/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,HBO XTREME SD
+http://iptv1.sytes.net:8000/play/a0n8/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,I-Sat
+http://iptv1.sytes.net:8000/play/a0io/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Sony
+http://iptv1.sytes.net:8000/play/a0jd/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Space
+http://iptv1.sytes.net:8000/play/a0jf/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Star Channel
+http://iptv1.sytes.net:8000/play/a0it/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,TBS
+http://iptv1.sytes.net:8000/play/a0l8/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,TCM
+http://iptv1.sytes.net:8000/play/a0mi/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,TNT
+http://iptv1.sytes.net:8000/play/a0ix/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,TVE
+http://iptv1.sytes.net:8000/play/a0j1/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Telemundo
+http://iptv1.sytes.net:8000/play/a0ih/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Universal
+http://iptv1.sytes.net:8000/play/a0in/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Warner
+http://iptv1.sytes.net:8000/play/a0lg/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1 group-title="Hogar y Familia" ,E Entertainment
+http://iptv1.sytes.net:8000/play/a0i4/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,HBO Family
+http://iptv1.sytes.net:8000/play/a0kc/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Home & Health
+http://iptv1.sytes.net:8000/play/a0l9/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Star Life
+http://iptv1.sytes.net:8000/play/a0ir/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1 group-title="Deportes" ,ESPN
+http://iptv1.sytes.net:8000/play/a0i7/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,ESPN 2
+http://iptv1.sytes.net:8000/play/a0hy/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,ESPN 2 Latin
+http://iptv1.sytes.net:8000/play/a0lj/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,ESPN 2 Latin HD
+http://iptv1.sytes.net:8000/play/a0mp/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,ESPN 3
+http://iptv1.sytes.net:8000/play/a0jj/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Fox Sports
+http://iptv1.sytes.net:8000/play/a0li/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Fox Sports 2
+http://iptv1.sytes.net:8000/play/a0m3/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Fox Sports 3
+http://iptv1.sytes.net:8000/play/a0m4/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,TNT SPORTS 2
+http://iptv1.sytes.net:8000/play/a0k4/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,TNT SPORTS 3
+http://iptv1.sytes.net:8000/play/a0ia/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1 group-title="Cultura" ,Animal Planet
+http://iptv1.sytes.net:8000/play/a0i2/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Discovery ID
+http://iptv1.sytes.net:8000/play/a0l7/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Discovery Turbo
+http://iptv1.sytes.net:8000/play/a0ji/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Enlace
+http://iptv1.sytes.net:8000/play/a0j0/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Esne TV
+http://iptv1.sytes.net:8000/play/a0rk/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,History Channel
+http://iptv1.sytes.net:8000/play/a0il/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1 group-title="Entretencion" ,Canal Estrellas
+http://iptv1.sytes.net:8000/play/a0ie/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,MTV
+http://iptv1.sytes.net:8000/play/a0md/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,RCN Novelas
+http://iptv1.sytes.net:8000/play/a0l6/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,TLC
+http://iptv1.sytes.net:8000/play/a0ic/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Zona Latina
+http://iptv1.sytes.net:8000/play/a0me/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1 group-title="-" ,Discovery Channel
+http://iptv1.sytes.net:8000/play/a0i1/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Music Classic Rock
+http://iptv1.sytes.net:8000/play/a0sl/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Musica 70s Hits
+http://iptv1.sytes.net:8000/play/a0sm/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Musica 80s Hits
+http://iptv1.sytes.net:8000/play/a0sn/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Musica Love Music
+http://iptv1.sytes.net:8000/play/a0sk/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Musica New Age
+http://iptv1.sytes.net:8000/play/a0sj/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Musica Symphonic
+http://iptv1.sytes.net:8000/play/a0si/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Nat Geo
+http://iptv1.sytes.net:8000/play/a0ik/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Reggae
+http://iptv1.sytes.net:8000/play/a0so/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Reggaeton
+http://iptv1.sytes.net:8000/play/a0sp/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,Rock Latino
+http://iptv1.sytes.net:8000/play/a0sq/index.m3u8?auth=gjimenezv:gjimenezv123
+#EXTINF:-1,TVN
+http://iptv1.sytes.net:8000/play/a0rx/index.m3u8?auth=gjimenezv:gjimenezv123
